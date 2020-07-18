@@ -20,9 +20,23 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: calc(20px + 2vmin);
+  color: black;
 }
+
+.App-s-header {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  color: #282c34;
+}
+
+.bluemarin-bg-colour{
+  background-color: #282c34;
+}
+
+//color changed from 282c34 to grey or red
 
 .App-link {
   color: #61dafb;
